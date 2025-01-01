@@ -1,8 +1,11 @@
+<h1>Hello 👋</h1>
+<h1>I'm hasona23</h1>
 ## Tech I Know
 
 ### Programming Languages :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg" alt="GO" width="50" height="50">
 </div>
 
 ### Databases :
@@ -18,7 +21,7 @@
 </div>
 ### 🎮 Game Development: 
 <div>
-   <img src="![image](https://github.com/user-attachments/assets/513eb54c-12c9-4c66-9526-b0c5afa1a4cd)" alt="Unity2D" width="50" height="50">
-  <img src="![image](https://github.com/user-attachments/assets/c8fd8991-f798-473b-bb49-b787d85507ac)" alt="Monogame" width="50" height="50">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/300px-Unity_2021.svg.png" alt="Unity2D" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/150px-MonoGame_Logo.svg.png" alt="Monogame" width="50" height="50">
 </div>
 <br/><br/>
