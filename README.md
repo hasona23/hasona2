@@ -23,7 +23,7 @@
 
 ### 🎮 Game Development: 
 <div>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/300px-Unity_2021.svg.png" alt="Unity2D" ">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/150px-MonoGame_Logo.svg.png" alt="Monogame" ">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/300px-Unity_2021.svg.png" alt="Unity2D" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/150px-MonoGame_Logo.svg.png" alt="Monogame" height="50" width="50">
 </div>
 <br/><br/>
