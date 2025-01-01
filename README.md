@@ -4,8 +4,8 @@
 
 ### Programming Languages :
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg" alt="GO" width="50" height="50">
+  <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" alt="C#" width="50" height="50"/>
+  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="GO" width="50" height="50">
 </div>
 
 ### Databases :
